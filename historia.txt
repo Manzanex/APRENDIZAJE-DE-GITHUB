@@ -1,6 +1,8 @@
 Hola Ricardo
 
-Estoy aprendiendo Git and GitHub
+Estoy aprendiendo Git and GitHub para crear videojuegos con Platzi
+
+Me encuentro en Lima y me gusta COD
 
 Soy de Perú y mi perro se llama King
 
